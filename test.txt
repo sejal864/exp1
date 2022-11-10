@@ -1,0 +1,12 @@
+1. Cloud9
+2. Create environment
+3. Give name to it 
+4. Keep clicking next 
+5. Click on share- create new user
+6. Create group - type cloud9
+7. Select all 4 options
+8. Next
+9. Copy the https path with some numeric digit
+10. Paste in incognito window
+11. Login there
+12. Select virginia
